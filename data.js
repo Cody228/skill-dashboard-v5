@@ -1351,7 +1351,7 @@ window.DASHBOARD_DATA = {
           title: "認識 CI 與 GitHub Actions",
           points: [
             {
-              text: "持續整合（CI）",
+              text: "持續整合（CI）加 AI",
               desc: "每次要合併的改動都先通過自動化驗證，一次都不漏掉。",
               done: false,
             },
